@@ -1,1 +1,1 @@
-# [HISTORY.JS IS NOW COMMUNITY MANAGED. THIS IS BALUPTON'S FORK. CLICK HERE TO BE TAKEN TO THE NEW REPO.](https://github.com/browserstate/history.js)
+# [HISTORY.JS IS NOW COMMUNITY MANAGED! :cake: <br/> THIS IS JUST BALUPTON'S FORK! :cake: <br/> CLICK HERE TO BE TAKEN TO THE NEW REPO! :cake: <br/> ![Dance](http://i683.photobucket.com/albums/vv191/Beckybert/Dancers/dancinstickman.gif)](https://github.com/browserstate/history.js)
